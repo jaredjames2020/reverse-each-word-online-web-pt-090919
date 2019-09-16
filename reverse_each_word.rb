@@ -13,5 +13,5 @@ def reverse_each_word(sentence)
     #binding.pry
   end
   puts rev_sentence
-  binding.pry
+ # binding.pry
 end
