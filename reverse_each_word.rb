@@ -6,6 +6,6 @@ def reverse_each_word(sentence)
   array.each do |words|
     rev_sentence << " " + words.reverse
     puts rev_sentence
-    binding.pry
+    #binding.pry
   end
 end
